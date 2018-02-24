@@ -1,0 +1,13 @@
+c:\users\iguest\source\repos\AzureCloudService1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\iguest\source\repos\AzureCloudService1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\iguest\source\repos\AzureCloudService1\ClassLibrary1\bin\Debug\HtmlAgilityPack.dll
+c:\users\iguest\source\repos\AzureCloudService1\ClassLibrary1\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+c:\users\iguest\source\repos\AzureCloudService1\ClassLibrary1\bin\Debug\Microsoft.Data.Edm.dll
+c:\users\iguest\source\repos\AzureCloudService1\ClassLibrary1\bin\Debug\Microsoft.Data.Services.Client.dll
+c:\users\iguest\source\repos\AzureCloudService1\ClassLibrary1\bin\Debug\Microsoft.Data.OData.dll
+c:\users\iguest\source\repos\AzureCloudService1\ClassLibrary1\bin\Debug\HtmlAgilityPack.pdb
+c:\users\iguest\source\repos\AzureCloudService1\ClassLibrary1\bin\Debug\HtmlAgilityPack.xml
+c:\users\iguest\source\repos\AzureCloudService1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+c:\users\iguest\source\repos\AzureCloudService1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+c:\users\iguest\source\repos\AzureCloudService1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\iguest\source\repos\AzureCloudService1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,21 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Emulator config file set to c:\users\iguest\source\repos\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] DiagnosticsStoreRootPath set to: C:\Users\iGuest\AppData\Local\dftmp\Resources\70f205ef-5023-440c-b56e-2a482a5274e3
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Loading config file: c:\users\iguest\source\repos\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Config file to read: c:\users\iguest\source\repos\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Emulator config file set to c:\users\iguest\source\repos\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Found a MonAgentHost.exe. WadArguments: "c:\users\iguest\source\repos\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WebRole1\plugins\Diagnostics\Monitor\x64\MonAgentHost.exe" -LocalPath "C:\Users\iGuest\AppData\Local\dftmp\Resources\99a82ee0-f73a-4c5c-a5c2-42a30d13a365\WAD0105"  -ConfigFile "C:\Users\iGuest\AppData\Local\dftmp\Resources\99a82ee0-f73a-4c5c-a5c2-42a30d13a365\WAD0105\Configuration\MaConfig.xml" -ShutDownEvent WADDM-ShutDown-2bcf831c5e8d4bc8874a3cb884add770  -TotalShutDownEvent WADDM-TotalShutDown-2bcf831c5e8d4bc8874a3cb884add770 -InitializedEvent WADM-StartUp-2bcf831c5e8d4bc8874a3cb884add770 -parent 9268 -events -wadVer1v5 -UseProxyServer -XStoreAccounts WadAccount#true#devstoreaccount1#Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==#http://127.0.0.1:10002#http://127.0.0.1:10001#http://127.0.0.1:10000.
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Found a DiagnosticsPlugin.exe. WadArguments: "C:\Users\iGuest\source\repos\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WebRole1\plugins\Diagnostics\DiagnosticsPlugin.exe" DiagnosticPlugin-ShutdownEvent DiagnosticPlugin-TotalShutdownEvent -wadVer1v5.
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Loading config file: c:\users\iguest\source\repos\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Config file to read: c:\users\iguest\source\repos\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Found a running wad2 MA not sharing the same local directory
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2/23/2018 9:00:16 AM] Found a DiagnosticsPlugin.exe. WadArguments: "C:\Users\iGuest\source\repos\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WebRole1\plugins\Diagnostics\DiagnosticsPlugin.exe" DiagnosticPlugin-ShutdownEvent DiagnosticPlugin-TotalShutdownEvent -wadVer1v5.
